@@ -1,0 +1,14 @@
+.wrapper {
+    display: inline-flex;
+    padding: 10px;
+    position: relative;
+    width: 50%;
+    height: 220px;
+}
+
+.categories {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 90%;
+}

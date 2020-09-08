@@ -1,0 +1,9 @@
+.category {
+    margin: 0 10px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px solid;
+    width: 150px;
+}
